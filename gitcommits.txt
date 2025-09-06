@@ -1,0 +1,35 @@
+mkdir project → Create a new folder named project.
+
+ls → List files and folders in the current directory.
+
+cd project → Move into the project folder.
+
+ls -a → List all files including hidden ones (like .git).
+
+ls .git → Show contents of the .git folder (Git metadata).
+
+touch names.txt → Create an empty file named names.txt.
+
+git add names.txt → Stage names.txt to be committed.
+
+git commit -m "created file" → Save staged changes with a commit message.
+
+git restore --staged names.txt → Unstage names.txt but keep the file.
+
+git rm -rf names.txt → Remove names.txt from working directory and stage deletion.
+
+git reset commitID → Move branch pointer back to the given commit.
+
+git log → Show commit history.
+
+git status → Show current changes and Git status.
+
+git stash → Temporarily save (stash) uncommitted changes and clean working directory.
+
+git stash pop → Restore last stashed changes and remove them from stash.
+
+git stash clear → Delete all stashed changes permanently.
+
+vi names.txt → Open names.txt in the vi text editor.
+
+:x → In vi, save changes and exit editor.
