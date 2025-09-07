@@ -1,0 +1,24 @@
+ Strings & Arrays
+ 🔹 Reverse a string (without built-in methods)
+ 🔹 Palindrome check
+ 🔹 Find duplicate characters in a string
+ 🔹 Reverse words in a sentence
+✨ Numbers & Logic
+ 🔹 Prime number check
+ 🔹 Fibonacci series
+ 🔹 Factorial (recursion)
+ 🔹 Armstrong number
+✨ Arrays / Lists
+ 🔹 Find missing number in a sequence
+ 🔹 Find max & min without using functions
+ 🔹 Rotate array by K steps
+ 🔹 Remove duplicates
+✨ Automation-Oriented Coding
+ 🔹 Find broken links on a webpage (Selenium + Python/Java)
+ 🔹 Handle dynamic dropdowns / calendars
+ 🔹 Switch between multiple tabs/windows
+ 🔹 Read test data from Excel/CSV
+✨ Bonus (to stand out)
+ 🔹 Compare 2 JSON/XML files
+ 🔹 Retry failed API calls
+ 🔹 Longest substring without repeating characters
